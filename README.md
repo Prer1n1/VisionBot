@@ -14,14 +14,14 @@ Waters the soil when moisture is low.
 
 Dynamically updates every few seconds to reflect real-time behavior.
 
-🔍 2. Object Detection Panel
+2. Object Detection Panel
 Utilizes TensorFlow.js with COCO-SSD to detect objects in uploaded images.
 
 Displays bounding boxes and labels directly on the canvas.
 
 Enables basic computer vision capabilities in the browser without requiring a backend server.
 
-🌡️ 3. Sensor Data Panel
+3. Sensor Data Panel
 Simulates the following IoT-style sensors:
 
 🌡️ Temperature sensor
@@ -34,7 +34,7 @@ Simulates the following IoT-style sensors:
 
 Sensor values are updated periodically to mimic real-time environmental data.
 
-📸 4. Image Upload and Preview Panel
+4. Image Upload and Preview Panel
 Allows users to upload an image from their local system.
 
 Feeds into the object detection module for inference.
